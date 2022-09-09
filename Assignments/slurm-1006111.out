@@ -1,0 +1,3 @@
+/var/spool/slurm/d/job1006111/slurm_script: line 10: syntax error near unexpected token `newline'
+/var/spool/slurm/d/job1006111/slurm_script: line 10: `ls ccbb_projects/ latest_nature_paper/ >'
+Detailed performance metrics for this job will be available at https://metrics.hpc.arizona.edu/#job_viewer?action=show&realm=SUPREMM&resource_id=5&local_job_id=1006111 by 8am on 2022/09/03.

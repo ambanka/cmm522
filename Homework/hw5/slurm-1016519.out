@@ -1,0 +1,5 @@
+Gene1	200	100	300	coding
+Gene3	0	700	10	coding
+Gene4	1000	2000	1500	coding
+Column 2 average is 325
+Detailed performance metrics for this job will be available at https://metrics.hpc.arizona.edu/#job_viewer?action=show&realm=SUPREMM&resource_id=5&local_job_id=1016519 by 8am on 2022/09/10.

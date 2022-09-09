@@ -1,0 +1,16 @@
+ls: cannot access latest_nature_paper/: No such file or directory
+/home/u22/abanka/ccbb_projects/:
+error_test.sbatch
+hw1
+hw2
+hw3
+list1
+name2.txt
+name.txt
+research.txt
+slurm-1001987.out
+slurm-1006106.out
+test_bash.sbatch
+test_bash.sh
+variables.txt
+Detailed performance metrics for this job will be available at https://metrics.hpc.arizona.edu/#job_viewer?action=show&realm=SUPREMM&resource_id=5&local_job_id=1006106 by 8am on 2022/09/03.

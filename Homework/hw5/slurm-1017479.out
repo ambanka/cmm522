@@ -1,0 +1,8 @@
+Gene1	200	100	300	coding
+Gene3	0	700	10	coding
+Gene4	1000	2000	1500	coding
+The sum for this row is 600
+The sum for this row is 1300
+The sum for this row is 2010
+The sum for this row is 6510
+Detailed performance metrics for this job will be available at https://metrics.hpc.arizona.edu/#job_viewer?action=show&realm=SUPREMM&resource_id=5&local_job_id=1017479 by 8am on 2022/09/10.
