@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH --job-name=errtest
+#SBATCH --ntasks=1
+#SBATCH --nodes=1
+#SBATCH --mem=100mb
+#SBATCH --time=00:05:00
+#SBATCH --partition=windfall
+#SBATCH --account=windfall
+
+module load python/3.9/3.9.10
+python3 ~/ccbb_projects/cmm522/python_plot.py
